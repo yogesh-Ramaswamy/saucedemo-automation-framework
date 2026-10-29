@@ -1,3 +1,5 @@
+# saucedemo-automation-framework
+AI-assisted SauceDemo test automation framework using Java, Selenium WebDriver, Cucumber BDD and Maven, with automated test reports.
 # SauceDemo Automation Agent Pack v4
 
 This version embeds the legacy `src` conventions inside `.github/reference/saucedemo-legacy-reference-profile.md`.
